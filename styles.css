@@ -1,0 +1,60 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+aside {
+  float: right;
+}
+.current {
+  color: red;
+}
+footer {
+  clear: both;
+  margin-bottom: 0;
+}
+
+li {
+  display: inline-block;
+  padding: 20px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+header,
+footer {
+  background: #2b2d42;
+  color: #8d99ae;
+}
+
+header {
+  padding-top: 70px;
+}
+
+/* Header */
+
+header {
+  padding-top: 50px;
+}
+
+/*header {
+  text-align: center;
+}*/
+
+header h1,
+header h2 {
+  color: #edf2f4;
+  margin: 0;
+}
+
+.profile-img {
+  border-radius: 50%;
+}
+
+/*Navigation*/
+
+nav a {
+  display: inline-block;
+  padding: 20px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: aliceblue;
+}
